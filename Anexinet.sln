@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anexinet", "Anexinet\Anexinet.csproj", "{C6DE2A8A-2ABE-4E2A-9F82-00A77269E2AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6DE2A8A-2ABE-4E2A-9F82-00A77269E2AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6DE2A8A-2ABE-4E2A-9F82-00A77269E2AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6DE2A8A-2ABE-4E2A-9F82-00A77269E2AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6DE2A8A-2ABE-4E2A-9F82-00A77269E2AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2890C686-91EE-4EE9-BC95-2F13DA39C2DE}
+	EndGlobalSection
+EndGlobal
